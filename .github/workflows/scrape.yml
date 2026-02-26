@@ -25,8 +25,3 @@ jobs:
 
       - name: 23f2005100@ds.study.iitm.ac.in - Run Playwright scraper
         run: node scrape.js
-
-
-Your answer should look like this:
-```
-https://github.com/YOUR_USERNAME/playwright-scraper ghp_xxxxxxxxxxxxxxxxxxxx
